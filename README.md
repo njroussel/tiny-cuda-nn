@@ -347,6 +347,13 @@ Among others, this framework powers the following publications:
 > __[Paper](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.pdf)&nbsp;/ [GTC talk](https://gtc21.event.nvidia.com/media/Fully%20Fused%20Neural%20Network%20for%20Radiance%20Caching%20in%20Real%20Time%20Rendering%20%5BE31307%5D/1_liqy6k1c)&nbsp;/ [Video](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.mp4)&nbsp;/ [Interactive results viewer](https://tom94.net/data/publications/mueller21realtime/interactive-viewer/)&nbsp;/ [BibTeX](https://tom94.net/data/publications/mueller21realtime/mueller21realtime.bib)__
 
 
+> __NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting__  <br>
+> [Brent Zoomers](https://brent-zoomers.github.io/), [Florian Hahlbohm](https://fhahlbohm.github.io/), [Joni Vanherck](https://www.uhasselt.be/en/who-is-who/joni-vanherck), [Lode Jorissen](https://www.ljorissen.be/),[Marcus Magnor](https://graphics.tu-bs.de/people/magnor), [Nick Michiels](https://www.uhasselt.be/nl/wie-is-wie/nick-michiels) <br>
+ __CVPR__, June 2026 <br>
+> __[Project page](https://brent-zoomers.github.io/nvgs/index.html)&nbsp;| [Paper](https://arxiv.org/abs/2511.19202)&nbsp;| [Bibtex](https://brent-zoomers.github.io/nvgs/bibtex.txt)&nbsp;__ 
+
+
+
 As well as the following software:
 
 > __NerfAcc: A General NeRF Accleration Toolbox__  
