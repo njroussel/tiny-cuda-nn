@@ -338,7 +338,7 @@ Among others, this framework powers the following publications:
 
 > __Extracting Triangular 3D Models, Materials, and Lighting From Images__  
 > [Jacob Munkberg](https://research.nvidia.com/person/jacob-munkberg), [Jon Hasselgren](https://research.nvidia.com/person/jon-hasselgren), [Tianchang Shen](http://www.cs.toronto.edu/~shenti11/), [Jun Gao](http://www.cs.toronto.edu/~jungao/), [Wenzheng Chen](http://www.cs.toronto.edu/~wenzheng/), [Alex Evans](https://research.nvidia.com/person/alex-evans), [Thomas Müller](https://tom94.net), [Sanja Fidler](https://www.cs.toronto.edu/~fidler/)  
-> __CVPR (Oral)__, June 2022  
+> _CVPR (Oral), June 2022_  
 > __[Website](https://nvlabs.github.io/nvdiffrec/)&nbsp;/ [Paper](https://nvlabs.github.io/nvdiffrec/assets/paper.pdf)&nbsp;/ [Video](https://nvlabs.github.io/nvdiffrec/assets/video.mp4)&nbsp;/ [BibTeX](https://nvlabs.github.io/nvdiffrec/assets/bib.txt)__
 
 > __Real-time Neural Radiance Caching for Path Tracing__  
@@ -349,7 +349,7 @@ Among others, this framework powers the following publications:
 
 > __NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting__  
 > [Brent Zoomers](https://brent-zoomers.github.io/), [Florian Hahlbohm](https://fhahlbohm.github.io/), [Joni Vanherck](https://www.uhasselt.be/en/who-is-who/joni-vanherck), [Lode Jorissen](https://www.ljorissen.be/), [Marcus Magnor](https://graphics.tu-bs.de/people/magnor), [Nick Michiels](https://www.uhasselt.be/nl/wie-is-wie/nick-michiels)  
- __CVPR__, June 2026  
+> _CVPR, June 2026_  
 > __[Website](https://brent-zoomers.github.io/nvgs/index.html)&nbsp;/ [Paper](https://arxiv.org/abs/2511.19202)&nbsp;/ [Code](https://github.com/UHasselt-DigitalFutureLab/NVGSViewer)&nbsp;/  [BibTex](https://brent-zoomers.github.io/nvgs/bibtex.txt)&nbsp;__ 
 
 
